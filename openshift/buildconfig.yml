@@ -5,7 +5,7 @@ metadata:
 spec:
   source:
     git:
-      uri: "https://github.com/Pallav695193/Video-Copy.git"
+      uri: "https://github.com/ivid-123/video-tool.git"
   strategy:
     jenkinsPipelineStrategy:
       jenkinsfilePath: Jenkinsfile
