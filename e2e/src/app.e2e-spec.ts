@@ -10,7 +10,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('Welcome to ivid-demo!');
+    expect(page.getTitleText()).toEqual('VideoTool app is running!');
   });
 
   afterEach(async () => {
